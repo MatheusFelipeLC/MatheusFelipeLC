@@ -1,6 +1,6 @@
 # 👨‍💻 Matheus Felipe Lima do Carmo | Desenvolvedor em Transição
 
-Olá! Sou Matheus Felipe Lima do Carmo, um entusiasta do desenvolvimento de software, dando os primeiros passos nesse mundo fascinante. 
+Olá! Sou Matheus Felipe, um entusiasta do desenvolvimento de software, dando os primeiros passos nesse mundo fascinante. 
 Apaixonado por tecnologia e movido pela curiosidade, estou explorando as áreas de frontend, backend e DevOps, sempre buscando aprender algo novo a cada dia.
 
 ## 🛠️ Habilidades Técnicas:
